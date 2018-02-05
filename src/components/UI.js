@@ -1,7 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import Header from './Header';
-import ResourceGenerator from './ResourceGenerator';
 import Footer from './Footer';
 
 class UI extends React.Component {
@@ -13,9 +12,6 @@ class UI extends React.Component {
         return (
             <div>
                 <Header />
-
-                <ResourceGenerator />
-
                 <Footer />
             </div>
         );

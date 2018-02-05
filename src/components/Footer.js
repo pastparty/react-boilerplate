@@ -4,7 +4,7 @@ import ReactDOM from 'react-dom';
 const Footer = () => {
     return (
         <footer>
-            <small>&copy; 2018, Pastparty. A game about alpacas in space.</small>
+            <small>&copy; 2018, Pastparty.</small>
         </footer>
     );
 }

@@ -4,7 +4,7 @@ import ReactDOM from 'react-dom';
 const Header = () => {
     return (
         <header>
-            <h1>Alpaca Space Story</h1>
+            <h1>Pastparty React Boilerplate</h1>
         </header>
     );
 }
